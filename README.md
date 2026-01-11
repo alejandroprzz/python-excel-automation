@@ -25,3 +25,10 @@ Input and output formats are customizable.
 
 ## Notes
 This project is intended as a base for custom automation jobs.
+
+## How to run
+1. Place your CSV file inside the `data` folder
+2. Rename it to `input.csv`
+3. Run:
+   ```bash
+   python excel_cleaner.py
